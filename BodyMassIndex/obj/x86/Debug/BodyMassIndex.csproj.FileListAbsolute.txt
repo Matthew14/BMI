@@ -1,0 +1,7 @@
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\obj\x86\Debug\BodyMassIndex.Form1.resources
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\obj\x86\Debug\BodyMassIndex.Properties.Resources.resources
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\obj\x86\Debug\BodyMassIndex.csproj.GenerateResource.Cache
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\obj\x86\Debug\BodyMassIndex.exe
+d:\google drive\documents\visual studio 2010\Projects\BodyMassIndex\BodyMassIndex\obj\x86\Debug\BodyMassIndex.pdb
